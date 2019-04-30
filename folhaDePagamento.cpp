@@ -1,8 +1,8 @@
-/*programa q faz a folha de pagamento com PROVIMENTOS (todos os valores q o empregado tem o direito de receber,
-e a soma deles È o Sal·rio Bruto: Sal·rio, Hora Extra, 13∫ Sal·rio, FÈrias, Adicional Noturno, Adicional
-de Insalubridade, Adicional de Periculosidade, Descanso Semanal Remunerado, Abono, Sal·rio FamÌlia.) 
-e DESCONTOS(todos os valores q s„o deduzidos do Sal·rio Bruto do empregado: INSS ,IRRF ,ContribuiÁ„o Sindical, ContribuiÁ„o
-Assistencial, Faltas, Vale-Transporte, Vale-AlimentaÁ„o. ApÛs o desconto dos deveres dos empregados, temos o Sal·rio LÌquido:)
+/*Programa criado no primeiro periodo da faculdade ,,,,programa faz a folha de pagamento com PROVIMENTOS (todos os valores q o empregado tem o direito de receber,
+e a soma deles √© o Sal√°rio Bruto: Sal√°rio, Hora Extra, 13¬∫ Sal√°rio, F√©rias, Adicional Noturno, Adicional
+de Insalubridade, Adicional de Periculosidade, Descanso Semanal Remunerado, Abono, Sal√°rio Fam√≠lia.) 
+e DESCONTOS(todos os valores q s√£o deduzidos do Sal√°rio Bruto do empregado: INSS ,IRRF ,Contribui√ß√£o Sindical, Contribui√ß√£o
+Assistencial, Faltas, Vale-Transporte, Vale-Alimenta√ß√£o. Ap√≥s o desconto dos deveres dos empregados, temos o Sal√°rio L√≠quido:)
 ENTRADA salario=s ,num de dependentes=nd ,horas extras=he ,adicional noturno=an ,adicional de insalubridade=ai ,
 adicional de periculosidade=ap */
 
