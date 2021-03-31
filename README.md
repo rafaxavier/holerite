@@ -1,6 +1,6 @@
 # holerite
-Programa q faz a folha de pagamento com PROVIMENTOS e DESCONTOS
-/*programa q faz a folha de pagamento com PROVIMENTOS (todos os valores q o empregado tem o direito de receber,
+Programa q faz a folha de pagamento 
+/*programa q faz a folha de pagamento (todos os valores que o empregado tem o direito de receber,
 e a soma deles é o Salário Bruto: Salário, Hora Extra, 13º Salário, Férias, Adicional Noturno, Adicional
 de Insalubridade, Adicional de Periculosidade, Descanso Semanal Remunerado, Abono, Salário Família.) 
 e DESCONTOS(todos os valores q são deduzidos do Salário Bruto do empregado: INSS ,IRRF ,Contribuição Sindical, Contribuição
